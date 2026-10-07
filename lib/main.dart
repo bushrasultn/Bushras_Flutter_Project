@@ -387,7 +387,6 @@ class _LivingRoomScreenState extends State {
 
           const SizedBox(height: 40),
 
-          // Mode Buttons (Cool, Heat, Fan, Auto) - Clickable
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
